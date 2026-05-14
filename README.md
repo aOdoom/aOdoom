@@ -1,6 +1,6 @@
 ## A. Odoom, MPH
 
-Aspiring Physician Scientist | Healthcare | Data Analysis | Finance
+Aspiring Physician Scientist | Healthcare Data Analyst | Finance
 
 ### Tools
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
